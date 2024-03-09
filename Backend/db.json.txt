@@ -1,0 +1,74 @@
+{
+"posts": [
+{"id":"1", "title":"This is title"},
+{"id":"2", "title":"This is second title"},
+{"id":"3", "title":"This is third title"}
+]
+}
+
+
+  {
+    "firstname": "prajyot",
+    "lastname":"mukane",
+    "phone":"54545",
+    "feedback":"keep practicing"
+  }
+
+  {
+"name":"comando",
+"email":"role@gmail.com",
+"password":"admin",
+"role":"admin"   
+}
+
+{
+"email":"role@gmail.com",
+"password":"admin"    
+}
+
+{
+    "name": "prajyot",
+    "variants":{},
+    "phone":"54545",
+    "feedback":"keep practicing"
+  }
+
+  {"_id":{"$oid":"65cbe1a57e808fcb44c26338"},
+  "name":"PEPPER BARBECUE CHICKEN",
+  "varients":["small","medium","large"],
+  "prices":[{"small":{"$numberInt":"200"},"medium":{"$numberInt":"350"},"large":{"$numberInt":"400"}}],
+  "category":"nonveg","image":"https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+  "description":"Pepper Barbecue Chicken I Cheese"}
+
+    {"_id":{"$oid":"65cbe1a57e808fcb44c26335"},
+  "name":"ParleG",
+  "varients":["small","medium","large"],
+  "prices":[{"small":{"$numberInt":"5"},"medium":{"$numberInt":"10"},"large":{"$numberInt":"20"}}],
+  "category":"Grosery",
+  "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FParle-Glucose-Biscuit-70g-Pack%2Fdp%2FB0754FH6YF&psig=AOvVaw0__tvF9J2dxWLJaKz7-ptV&ust=1707947469743000&source=images&cd=vfe&opi=89978449&ved=0CBcQjRxqGAoTCPiwxaSmqYQDFQAAAAAdAAAAABDtAQ",
+  "description":"This is sweet Biscuit"}
+
+      {"_id":{"$oid":"65cbe1a57e808fcb44c26336"},
+  "name":"Tata Salt",
+  "varients":["small","medium","large"],
+  "prices":[{"small":{"$numberInt":"10"},"medium":{"$numberInt":"50"},"large":{"$numberInt":"100"}}],
+  "category":"Grosery",
+  "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Ffattaak.in%2Fproducts%2Ftata-salt-vacuum-evaporated-iodised1kg&psig=AOvVaw3G0_PrIY3xllVczhVFD3Gf&ust=1707947770260000&source=images&cd=vfe&opi=89978449&ved=0CBcQjRxqFwoTCNjI0LOnqYQDFQAAAAAdAAAAABAF",
+  "description":"This is Tata Salt"}
+
+  {"_id":{"$oid":"65cbe1a57e808fcb44c26337"},
+  "name":"Artis Sound",
+  "varients":["small","medium","large"],
+  "prices":[{"small":{"$numberInt":"100"},"medium":{"$numberInt":"500"},"large":{"$numberInt":"5000"}}],
+  "category":"IT",
+  "image":"https://m.media-amazon.com/images/I/61D7AjZDUDL._AC_UF1000,1000_QL80_.jpg",
+  "description":"This is Artis Sound"}
+
+{
+"name":"Onion",
+"price":50,
+"quantity":2,
+"category":"Grosery",
+"description":"This is good onion"
+}
+

@@ -1,0 +1,104 @@
+.container {
+    width: 100%;
+    height: 100%;
+    background-color: lightgray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.pract2 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aliceblue;
+    border: 2px solid red;
+}
+
+.childrow {
+    width: 30%;
+    height: 30%;
+    background-color: azure;
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid black;
+    border-radius: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.grandchildrow{
+    width: 100%;
+    height: 30%;
+    background-color: lightgoldenrodyellow;
+    border: 2px solid green;
+    border-radius: 1.2rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+}
+
+.EditHeader{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: green;
+font-size: 1vw;
+
+}
+
+.formitemlabel{
+width: 100%;
+font-size: 1rem;
+line-height: 3;
+}
+
+.formiteminput{
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    line-height: 3;
+}
+
+.btnitem{
+justify-content: center;
+width: 100%;
+line-height: 2;
+font-weight: bold;
+
+}
+
+.card {
+    width: 10%;
+    height: 10%;
+    background-color: lightsteelblue;
+    margin: 2px;
+    padding: 5px;
+    border: 2px solid black;
+    font-size: 1rem;
+    font-style: oblique;
+    font-weight: 600;
+    line-height: 1.4;
+    border-radius: 1rem;
+    color: white;
+}
+
+.box1 {
+    width: 300px;
+    height: 300px;
+    /* background-color: aqua; */
+}
+
+.box2 {
+    width: 300px;
+    height: 200px;
+    background-color: green;
+}
+
+.box3 {
+    width: 100px;
+    /* height: 100px; */
+    background-color: yellow;
+}

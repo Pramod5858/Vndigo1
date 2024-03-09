@@ -1,0 +1,24 @@
+.main {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-color: blueviolet;
+}
+
+.navbar1{
+    height: 100px;
+    width: 100%;
+    background-color: lightcoral;
+}
+
+.content1{
+    height: calc(100% - 200px);
+    width: 100%;
+    background-color: lightgoldenrodyellow;
+}
+
+.footer1{
+    height: 100px;
+    width: 100%;
+    background-color: lightgreen;
+}

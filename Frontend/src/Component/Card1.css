@@ -1,0 +1,46 @@
+.card1 {
+    width: 220px;
+    height: 150px;
+    /* background-color: #2a3c3c75; */
+    color: white;
+    margin: 10px;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: start;
+    padding: 10px;
+
+    background: repeating-radial-gradient(circle,
+            purple,
+            purple 10px,
+            #4b026f 10px,
+            #4b026f 20px)
+}
+
+.head1 {
+    color: white;
+    /* text-align: center; */
+    -webkit-text-stroke-width: 1px;
+
+}
+
+.head2 {
+    width: 120px;
+    height: 40px;
+    border-radius: 7px;
+    text-align: center;
+    justify-content: center;
+    
+    background-color: white;
+    color: blue;
+}
+
+
+.row {
+    margin-top: -12px;
+    height: 200px;
+}
+
+#col2 {
+
+    text-align: end;
+}

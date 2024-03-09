@@ -1,0 +1,207 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "This is title"
+    },
+    {
+      "id": "2",
+      "title": "This is second title"
+    },
+    {
+      "id": "3",
+      "title": "This is four title"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "Pramod Mukane",
+      "email": "pramodmukane@gmail.com",
+      "address": "Landewadi, bhosari,pune-411039"
+    },
+    {
+      "id": "2",
+      "name": "Pooja Mukane",
+      "email": "poojamukane@gmail.com",
+      "address": "bhosari,pune-411039"
+    },
+    {
+      "id": "3",
+      "name": "test",
+      "email": "test@gmail.com",
+      "address": "abc"
+    },
+    {
+      "id": "c931",
+      "name": "test1",
+      "email": "test1@gmail.com",
+      "address": "test1"
+    }
+  ],
+  "feedback1": [
+    {
+      "id": "1",
+      "firstname": "peter",
+      "lastname": "parker",
+      "phone": "9998887770",
+      "feedback": "This is nice try"
+    },
+    {
+      "id": "2",
+      "firstname": "tom",
+      "lastname": "chruse",
+      "phone": "7778889990",
+      "feedback": "This is good"
+    },
+    {
+      "id": "20d9",
+      "firstname": "chaitali",
+      "lastname": "jagtap",
+      "phone": "8887779990",
+      "feedback": "well tried"
+    },
+    {
+      "id": "6176",
+      "firstname": "Artis",
+      "lastname": "Artis",
+      "phone": "7778887777",
+      "feedback": "Very nice practise"
+    },
+    {
+      "id": "cafe",
+      "firstname": "Lg",
+      "lastname": "lg",
+      "phone": "77788878945",
+      "feedback": "well done"
+    }
+  ],
+  "signup": [
+    {
+      "id": "1",
+      "secretkey": "admin",
+      "name": "Pramod Mukane",
+      "email": "pramodmukane@gmail.com",
+      "password": "pramod"
+    },
+    {
+      "id": "2",
+      "name": "Prabhuraj Mukane",
+      "email": "prabhurajmukane@gmail.com",
+      "password": "prabhuraj"
+    },
+    {
+      "id": "3",
+      "secretkey": "admin",
+      "name": "Pooja Mukane",
+      "email": "poojamukane@gmail.com",
+      "password": "pooja"
+    },
+    {
+      "id": "4",
+      "name": "Prajyot Mukane",
+      "email": "prajyotmukane@gmail.com",
+      "password": "pramod"
+    },
+    {
+      "id": "d5ff",
+      "name": "Vinayak Mukane",
+      "secretkey": "admin",
+      "email": "vinayakmukane@gmail.com",
+      "password": "vinayak"
+    },
+    {
+      "id": "3fe5",
+      "secretkey": "admin",
+      "name": "Suvidhanya Mukane",
+      "email": "suvidhanyamukane@gmail.com",
+      "password": "suvidhanya"
+    },
+    {
+      "id": "dae3",
+      "secretkey": "admin",
+      "name": "Suvidhanya Mukane1",
+      "email": "suvidhanyamukane1@gmail.com",
+      "password": "suvidhanya"
+    },
+    {
+      "id": "eca4",
+      "role": "role",
+      "name": "Bharathi Mukane",
+      "email": "bharathimukane@gmail.com",
+      "password": "bharathi"
+    },
+    {
+      "id": "f002",
+      "role": "admin",
+      "name": "Bharathi Mukane1",
+      "email": "bharathimukane1@gmail.com",
+      "password": "bharathi"
+    },
+    {
+      "id": "04bc",
+      "role": "role",
+      "name": "temp",
+      "email": "temp@gmail.com",
+      "password": "temp"
+    },
+    {
+      "id": "afc0",
+      "role": "admin",
+      "name": "temp1",
+      "email": "temp1@gmail.com",
+      "password": "temp"
+    }
+  ],
+  "login": [
+    {
+      "id": "1",
+      "email": ""
+    },
+    {
+      "id": "5d99",
+      "email": "temp1@gmail.com",
+      "password": "temp"
+    },
+    {
+      "id": "f0a0",
+      "role": "admin",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "aca6",
+      "role": "role",
+      "name": "role",
+      "email": "role@gmail.com",
+      "password": "role"
+    },
+    {
+      "id": "7a62",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "69af",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      
+      "role": "admin",
+      "name": "artis",
+      "email": "artis@gmail.com",
+      "password": "artis"
+    },
+
+    {
+      "email": "artis@gmail.com",
+      "otp":"s7n4lx"
+
+    }
+  ]
+}
+
+
+

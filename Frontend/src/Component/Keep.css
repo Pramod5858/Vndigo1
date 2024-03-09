@@ -1,0 +1,129 @@
+.container-fluid {
+  width: 100%;
+  height: 100%;
+  /* position: relative; */
+  background-color:lightseagreen;
+}
+
+.carouselparent {
+  height: 400px;
+  width: 100%;  
+  background-color:black;
+}
+
+.carouselchild {
+  width: 100%;
+  height: 80%;
+  background-color: red;
+}
+
+.carouselchild img{
+  width: 100%;
+  height: 50%;
+  background-color: white;
+}
+
+.container {
+  background-color: bisque;
+}
+
+.form-label {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.signupcolor {
+  color: red;
+}
+
+.tempo1 {
+  background-color: black;
+  color: aliceblue;
+  width: 150px;
+  height: 40px;
+  border: 1px solid red;
+}
+
+.iconplaystore {
+  margin-left: 4px;
+  margin-top: 2px;
+}
+
+.temp3 {
+  margin-left: -70px;
+  margin-top: 4px;
+}
+
+.temp2 {
+  margin-left: -4px;
+  font-size: 8px;
+}
+
+.temp4 {
+  margin-left: -5px;
+  margin-top: -3px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.tempo5 {
+  margin-top: 18px;
+  background-color: pink;
+  width: 150px;
+  height: 46px;
+
+}
+
+.iconapple {
+  margin-left: 4px;
+  margin-top: 4px;
+}
+
+.temp6 {
+  margin-left: -39px;
+  margin-top: 6px;
+  font-size: 9px;
+}
+
+.temp7 {
+  margin-left: -38px;
+  margin-top: -5px;
+  font-family: ui-monospace;
+  font-weight: bold;
+}
+
+.ourawards {
+  margin-top: 11px;
+  font-family: ui-serif;
+  font-weight: bold;
+}
+
+/* .iconaward{
+
+} */
+
+.bestlowcost {
+  margin-top: 6px;
+  margin-left: -50px;
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+.airline-asia {
+  margin-top: 2px;
+  margin-left: -50px;
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: ui-serif;
+}
+
+.iconaward1 {}
+
+.imgpizza {
+  width: 200px;
+  height: 400px;
+}
+
+p{
+  font-weight: bold;
+  color: red;
+}
